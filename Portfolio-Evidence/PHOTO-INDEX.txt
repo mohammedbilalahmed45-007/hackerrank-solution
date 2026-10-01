@@ -1,0 +1,24 @@
+PHOTO EVIDENCE INDEX
+
+01-Mini-Max-Sum/
+  01-code-before.png          = Mini-Max Sum source code
+  02-accepted-after.png       = Mini-Max Sum accepted HackerRank result
+
+02-Birthday-Cake-Candles/
+  01-code-before.png          = Birthday Cake Candles source code
+  02-accepted-after.png       = Birthday Cake Candles accepted HackerRank result
+
+03-Insertion-Sort-Part-1/
+  01-code-before.png          = Insertion Sort source code
+  02-accepted-after.png       = Insertion Sort accepted HackerRank result
+  03-submission-evidence.png  = HackerRank submission page evidence
+
+05-Mark-and-Toys/
+  01-code-before.png          = Mark and Toys source code
+  02-accepted-after.png       = Mark and Toys accepted HackerRank result
+
+Portfolio-Evidence/
+  01-HackerRank-badge-and-certification.png = Profile, 2-star badge, certification
+  02-VS-Code-before-fix-errors.png          = Original duplicate Solution/public-class errors
+
+No Binary Search screenshot was supplied, so no screenshot was created or fabricated for it.
